@@ -1,0 +1,17 @@
+.mainCont {
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  height: 80vh;
+  width: 80vw;
+}
+
+ul {
+  display: flex;
+}
